@@ -17,6 +17,6 @@
 
 ## 📫 Contact
 
-📧 [kingbleyder@gmail.com](mailto:kingbleyder@gmail.com)
+[Email](mailto:kingbleyder@gmail.com)
 
-💼 [LinkedIn](https://www.linkedin.com/in/kevin-joseph-pedro-sanchez-quispe/)
+[LinkedIn](https://www.linkedin.com/in/kevin-joseph-pedro-sanchez-quispe/)
