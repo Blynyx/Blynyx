@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**Blynyx/Blynyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems and Computer Engineering student at Universidad Continental.
 
-Here are some ideas to get you started:
+💻 Interested in software development and information systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+Java · Spring Boot · SQL · SQL Server · JavaScript · HTML/CSS · Flutter · Maven · UML · PlantUML
+
+## 📫 Contact
+
+📧 [kingbleyder@gmail.com](mailto:kingbleyder@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/kevin-joseph-pedro-sanchez-quispe/)
