@@ -17,6 +17,6 @@
 
 ## 📫 Contact
 
-[Email](mailto:kingbleyder@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingbleyder@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/kevin-joseph-pedro-sanchez-quispe/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
